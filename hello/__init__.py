@@ -1,4 +1,5 @@
 """hello world module"""
+import peewee
 
 
 def hello(who):
